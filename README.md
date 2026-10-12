@@ -12,7 +12,7 @@ This project analyzes summer product sales and performance using Power BI. The g
 
 ## Dashboard Pages
 
-![Product Performance](Product-Performance1.png.png)
+![Product Performance](https://github.com/DorinaR85/Summer-Products-Analysis/raw/refs/heads/main/Product-Performance1.png.png)
 
 ![Color Analysis](Product-Performance2.png.png)
 
